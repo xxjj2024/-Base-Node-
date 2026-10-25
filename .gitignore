@@ -1,0 +1,18 @@
+# ROS 2 colcon 构建产物
+chapt1_ws/build/
+chapt1_ws/install/
+chapt1_ws/log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 系统与编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 大体积厂商手册(如有需要请自行下载, 见 README 附录)
+chapt1_ws/*.pdf
