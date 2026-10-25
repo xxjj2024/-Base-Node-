@@ -13,6 +13,3 @@ __pycache__/
 .idea/
 *.swp
 .DS_Store
-
-# 大体积厂商手册(如有需要请自行下载, 见 README 附录)
-chapt1_ws/*.pdf
